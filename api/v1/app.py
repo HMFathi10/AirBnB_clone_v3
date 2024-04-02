@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """ Flask Application """
 from os import getenv
 from flask import Flask, jsonify

@@ -8,9 +8,7 @@ import json
 import os
 import unittest
 from datetime import datetime
-
 import pep8
-
 import models
 from models import storage
 from models.amenity import Amenity
